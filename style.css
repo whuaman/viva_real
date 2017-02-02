@@ -188,19 +188,25 @@ section a:hover{
 	color: white;
 	text-align: left;
 	font-size: 40px;
+	padding:40px;
 }
 .premio_item1 p{
 	text-align: left;
 	color: #ffffff;
 	line-height: 25px;
+	padding: 10px 40px;
+
 }
 .premio_item1{
-	width: 65%;
+	width: 55%;
+
 }
 .premio_item2{
-	width: 30%;
-	vertical-align: center;
+	width: 40%;
+	
 }
 .premio_item2 img{
-	width: 300px;	
+	width: 380px;
+	display: block;
+	margin: 30% auto;	
 }
