@@ -1,0 +1,797 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"color"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"bac",
+				"background-attachment"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"BA",
+				"background-color"
+			],
+			[
+				"inle",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"flex-",
+				"flex-direction"
+			],
+			[
+				"di",
+				"flex-direction"
+			],
+			[
+				"fl",
+				"flex-direction"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"f",
+				"flex"
+			],
+			[
+				"sy",
+				"style	Attr"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"MAX",
+				"max-width"
+			],
+			[
+				"sty",
+				"style	Attr"
+			],
+			[
+				"styl",
+				"style	Attr"
+			],
+			[
+				"IN",
+				"inline"
+			],
+			[
+				"ti",
+				"title	Attr"
+			],
+			[
+				"hr",
+				"href	Attr"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"to",
+				"toDoElement"
+			],
+			[
+				"new",
+				"newTaskTitle"
+			],
+			[
+				"GET",
+				"getId"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"get",
+				"getTitle"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"animation-D",
+				"animation-direction"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"modal",
+				"modal_botao"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"sa",
+				"sans-serif"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"border-",
+				"border-top"
+			],
+			[
+				"fonte",
+				"font-size"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"tex-a",
+				"text-align"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"title",
+				"title	Attr"
+			],
+			[
+				"met",
+				"method	Attr"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"tra",
+				"translateX()"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"borde",
+				"border-box"
+			],
+			[
+				"bo",
+				"box-sizing"
+			],
+			[
+				"border",
+				"border-image-source"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"va",
+				"value	Attr"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"e",
+				"expresion"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"cont",
+				"content	Attr"
+			],
+			[
+				"b",
+				"bgcolor	Attr"
+			],
+			[
+				"ce",
+				"cellspacing	Attr"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"bott",
+				"border-bottom"
+			],
+			[
+				"bord",
+				"border-sizing"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgro",
+				"background-image"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"re",
+				"required	Attr"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"nov",
+				"novo_jogo"
+			],
+			[
+				"pal",
+				"palavra_parcial"
+			],
+			[
+				"no",
+				"novojogo"
+			],
+			[
+				"url",
+				"page.url	Jekyll"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"meta",
+				"Snippet: HTML - Meta tags"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 703.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"mport urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/whuaman/Desktop/viva_real_premio/index.html",
+		"/C/Users/whuaman/Desktop/viva_real_premio/style.css",
+		"/C/Users/whuaman/Desktop/viva_real_premio/img/12370231-0-logo-home.png",
+		"/C/Users/whuaman/Desktop/viva_real_premio/img/2Q==.jpg",
+		"/C/Users/whuaman/Desktop/live/zonas_sp/index.html",
+		"/C/Users/whuaman/Desktop/live/planta_pronto/index.html",
+		"/C/Users/whuaman/Desktop/live/20170101_final_do_ano/index.html",
+		"/C/Users/whuaman/Desktop/live/opcoes/index.html",
+		"/T/0118 Marketing Digital/Conteúdo/Videos/Ao Vivo/mar/index.html",
+		"/C/Users/whuaman/Desktop/index.html",
+		"/T/0118 Marketing Digital/Conteúdo/Videos/Ao Vivo/index.html",
+		"/C/Users/whuaman/Desktop/live/zonas_sp/background.mp4",
+		"/C/Users/whuaman/Desktop/live/zonas_sp.html",
+		"/C/Users/whuaman/Desktop/live/imoveis.html",
+		"/C/Users/whuaman/Desktop/front/index.html",
+		"/C/Users/whuaman/Desktop/html_1.html",
+		"/C/Users/whuaman/Desktop/front/index_ok.html",
+		"/C/Users/whuaman/Desktop/front/prova.html",
+		"/C/Users/whuaman/Desktop/front/aula1.htm",
+		"/C/Users/whuaman/Desktop/front/inde2x.html",
+		"/C/Users/whuaman/Desktop/front/Cópia de index.html",
+		"/C/Users/whuaman/Desktop/loco/video.html",
+		"/C/Users/whuaman/Desktop/loco/styles.css",
+		"/C/Users/whuaman/Desktop/Cópia de index.html",
+		"/C/Users/whuaman/Desktop/frontt/c.html",
+		"/C/Users/whuaman/Desktop/frontt/indexx.html",
+		"/C/Users/whuaman/git/footer_responsive/footer.html",
+		"/C/Users/whuaman/git/emkt_one/emkt_1.html",
+		"/C/Users/whuaman/wamp/www/site6/index.html",
+		"/C/Users/whuaman/Desktop/facebook_funcionario.html",
+		"/C/Users/whuaman/Desktop/menu/css/estilos.css",
+		"/C/Users/whuaman/Desktop/menu/index.html",
+		"/C/Users/whuaman/Desktop/menu/js/menu.js",
+		"/C/Users/whuaman/Desktop/live/casa_apto/index.html",
+		"/C/Users/whuaman/Desktop/modal.html",
+		"/C/Users/whuaman/Desktop/planta_pronto/index.html",
+		"/C/Users/whuaman/Desktop/Facebook Live Stream With Live Graph Poll.html",
+		"/C/Users/whuaman/Desktop/email_testes/LIV.html",
+		"/C/Users/whuaman/Desktop/email_testes/email 2.html",
+		"/C/Users/whuaman/Desktop/layout1/layout_1.html",
+		"/C/Users/whuaman/Desktop/casa_apto/index.html",
+		"/C/Users/whuaman/Desktop/newsletter1.html",
+		"/C/Users/whuaman/Desktop/jobs/aula1.htm",
+		"/C/Users/whuaman/Desktop/emkt_pattern/emkt_site_novo/site_new.html",
+		"/C/Users/whuaman/wamp/www/bootstrap/index.html",
+		"/C/Users/whuaman/Desktop/live/mar/index.html",
+		"/C/Users/whuaman/Desktop/live/final_do_ano/index.html",
+		"/C/Users/whuaman/Desktop/live/index.html",
+		"/C/Users/whuaman/Desktop/live/index - Cópia.html",
+		"/C/Users/whuaman/Desktop/index - Cópia.html",
+		"/C/Users/whuaman/Desktop/final_do_ano/index.html",
+		"/C/Users/whuaman/Desktop/NeveCaindoCSS3/index.html",
+		"/C/Users/whuaman/Desktop/Nova pasta/index.html",
+		"/C/Users/whuaman/Desktop/inquete_fb/index.html",
+		"/C/Users/whuaman/Desktop/teste.html",
+		"/C/Users/whuaman/Desktop/images/florida_2.png",
+		"/C/Users/whuaman/Desktop/land2.html",
+		"/C/Users/whuaman/Desktop/v2.html",
+		"/C/Users/whuaman/Desktop/v4.html",
+		"/C/Users/whuaman/Desktop/v16.html",
+		"/C/Users/whuaman/Desktop/v5.html",
+		"/C/Users/whuaman/Desktop/v5in.html",
+		"/C/Users/whuaman/Desktop/weekly/emkt_week10-2/week10.html",
+		"/C/Users/whuaman/Desktop/raizes_vl_matilde.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/um.html",
+		"/C/Users/whuaman/Desktop/v1in.html",
+		"/C/Users/whuaman/Desktop/v1.html",
+		"/C/Users/whuaman/Desktop/insta_try.html",
+		"/C/Users/whuaman/Desktop/instagram.html",
+		"/C/Users/whuaman/Desktop/v7.html",
+		"/C/Users/whuaman/Desktop/you_sena/v1.html",
+		"/C/Users/whuaman/Desktop/play/v1.html",
+		"/C/Users/whuaman/Desktop/v3.html",
+		"/C/Users/whuaman/Desktop/v28in.html",
+		"/C/Users/whuaman/Desktop/v28.html",
+		"/C/Users/whuaman/Desktop/v18.html",
+		"/C/Users/whuaman/Desktop/weekly/emkt_week9-1/week9.html",
+		"/C/Users/whuaman/Desktop/weekly/emkt_week6-2/week6.html",
+		"/C/Users/whuaman/Desktop/emkt_pattern/v32.html",
+		"/C/Users/whuaman/Desktop/weekly/emkt_week7-3/week_7.html",
+		"/C/Users/whuaman/Desktop/v6.html",
+		"/C/Users/whuaman/Desktop/v1lps.html",
+		"/C/Users/whuaman/Desktop/authentic_vila_madalena/v1.html",
+		"/C/Users/whuaman/Desktop/video_emkt.html",
+		"/C/Users/whuaman/Desktop/v18_LPS.html",
+		"/C/Users/whuaman/Desktop/v29.html",
+		"/C/Users/whuaman/Desktop/v12.html",
+		"/C/Users/whuaman/Desktop/v33.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/les_champ/v4.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/led/v33in.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/you_link_paulista/v2in.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/genuine/v5.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/genuine/v5in.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/raizes/v2in.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/les_champ/v4 in.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/rsvp/v33 in.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/led/v33.html",
+		"/C/Users/whuaman/Desktop/evento_les_champs4.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/led/v33lps.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/you_link_paulista/v3test.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/you_link_paulista/v17_v2.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/you_link_paulista/v2.html",
+		"/C/Users/whuaman/Desktop/V5lps.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/raizes/v2lps.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/raizes/v2.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/raizes/v33_teste.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/rsvp/v33_teste.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/rsvp/v33.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/pca_sp/v20_lps_t.html",
+		"/C/Users/whuaman/Desktop/v4liv.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/pca_sp/v20in.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/pca_sp/v20.html",
+		"/C/Users/whuaman/Desktop/emkt_pattern/video_emkt.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/praca_cidade/v17_v2.html",
+		"/C/Users/whuaman/Desktop/v20.html",
+		"/C/Users/whuaman/Desktop/weekly/emkt_week8-4/week_8.html",
+		"//Lps0web01/wwwroot/www.lopes.com.br/multimidia/divulgacao/les_champs/v3in.html",
+		"//Lps0web01/wwwroot/www.lopes.com.br/multimidia/divulgacao/les_champs/v3.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/les_champ/evento_les_champs3.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/les_champ/evento_les_champs2 - Cópia.html",
+		"/C/Users/whuaman/Desktop/emkt_pattern/v155.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/you_link_paulista/v1test.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/praca_cidade/v17in.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/new_in/v1in.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/new_in/v1.html",
+		"/C/Users/whuaman/Desktop/Analise_testes_setembro/praca_cidade/v17.html",
+		"/C/Users/whuaman/Desktop/v2test.html",
+		"/C/Users/whuaman/Desktop/v17.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"counter",
+			"couter",
+			"html",
+			"reac",
+			"aquiTire",
+			"serv",
+			"img",
+			"agora",
+			"h3",
+			"texto",
+			"figure",
+			"figutre",
+			"img",
+			"agora",
+			"texto",
+			"tex",
+			"mooca",
+			"img_25",
+			"lala",
+			"border",
+			"#",
+			"#p",
+			"#po",
+			"#pos",
+			"#post",
+			"#post-1",
+			"#title",
+			"section",
+			"img",
+			"require",
+			"cat",
+			"cate",
+			"list",
+			"type=\"search\"",
+			"#0088cc",
+			"active",
+			"navbar",
+			"container",
+			"750",
+			"padding-left:",
+			"margin-left:",
+			"margin-left: 40px;",
+			"padding-left: 40px;",
+			"margin-left: 40px;",
+			"padding-left: 20",
+			"padding-left: ",
+			"padding-left",
+			"margin-left",
+			"ul(20)",
+			"ul",
+			"footer-link",
+			"footer",
+			"ul",
+			"footer-links",
+			"innhe",
+			"navbar",
+			"header",
+			"navbar",
+			"active",
+			"sidenav",
+			"subhea",
+			"ul",
+			"footer-links",
+			"ul.footer-links",
+			"footer-links",
+			"jumbotron",
+			"color: inherit;",
+			"    color: inherit;",
+			"#fff",
+			"container",
+			"h1",
+			"navbar",
+			"nav",
+			"mon",
+			"lead",
+			"jumbotron",
+			"jumb",
+			"jumbo",
+			"	\n",
+			"betw",
+			"bet",
+			";\n",
+			"><",
+			"class",
+			"post-link",
+			"post-title",
+			"http://chat.lopes.com.br/atendimento/entrar.php?acao=ENTRAR&nome=[PRIMEIRONOME]&email=[EMAIL]&canal=Chat%20Site%20Lopes&produto_codigo_master=13806&empresa_codigo=9&lpsmidiaorigem=pg:N|ft:Crm-Lps|camp:EM-SP-LPS-casaviva-v5&utm_campaign=EM-SP-LPS-casaviva-v5&utm_source=Lopes&utm_medium=emkt&utm_content=casaviva_botao_chat",
+			"casa viva",
+			"casa-viva",
+			"http://chat.lopes.com.br/atendimento/entrar.php?acao=ENTRAR&nome=[PRIMEIRONOME]&email=[EMAIL]&canal=Chat%20Site%20Lopes&produto_codigo_master=6981&empresa_codigo=240&lpsmidiaorigem=pg:N|ft:Crm-Lps|camp:emkt-v33&utm_campaign=emkt&utm_source=Crm-Lps&utm_medium=emkt_botao_chat"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/chrome.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
