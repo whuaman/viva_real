@@ -58,7 +58,7 @@ header a:hover{
 }
 section h1, h2, p{
 	text-align: center;
-	margin-bottom: 18px;
+	margin-bottom: 25px;
 }
 .destaque h3{
 	text-align: center;
@@ -104,6 +104,7 @@ section a:hover{
 	width: 25%;
 	margin: 10px;
 	border: 2px solid transparent;
+	margin-bottom: 20px;
 }
 .categorias_item:hover{
 
@@ -112,7 +113,9 @@ section a:hover{
 }
 .categorias_item h3{
 	text-align: center;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
+	font-size: 20px;
+	text-transform: uppercase;
 }
 .categorias_item figure img{
 	margin: auto;
@@ -122,4 +125,51 @@ section a:hover{
 	background-image: url(img/circle_empty.png);
 	background-size: cover;
 	background-position: center;
+}
+.indicados_item{
+	width: 49%;
+	padding: 30px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+.indicados_item figure img{
+	margin: auto;
+	margin-bottom: 20px;
+	display: block;
+	width: 90px;
+	background-image: url(img/circle_empty.png);
+	background-size: 100px 100px;
+	background-position: center;
+	background-repeat: no-repeat;
+	
+}
+.indicados_item h3{
+	text-align: center;
+	margin: 10px 30px;
+	font-size: 20px;
+	padding: 10px 30px;
+	text-transform: uppercase;
+}
+.indicados_item p{
+	text-align: center;
+	margin: 30px;
+	font-size: 15px;
+	padding: 10px 30px;
+	line-height: 24px;
+}
+.melhores{
+	background-color: #ffce39;
+	padding: 40px 0px;
+
+}
+.melhores a{
+	border:1px solid #333;
+	padding: 15px 20px;
+	display: block;
+	width: 250px;
+	text-decoration: none;
+
+}
+.melhores h2{
+	font-size: 40px;
 }
