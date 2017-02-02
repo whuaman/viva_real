@@ -173,3 +173,34 @@ section a:hover{
 .melhores h2{
 	font-size: 40px;
 }
+.premio{
+	background-image: url(img/premio_bg.jpg);
+	background-size: cover;
+}
+.premio_wrap{
+	margin: 0 auto;
+	max-width: 1100px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.premio_item1 h2{
+	color: white;
+	text-align: left;
+	font-size: 40px;
+}
+.premio_item1 p{
+	text-align: left;
+	color: #ffffff;
+	line-height: 25px;
+}
+.premio_item1{
+	width: 65%;
+}
+.premio_item2{
+	width: 30%;
+	vertical-align: center;
+}
+.premio_item2 img{
+	width: 300px;	
+}
